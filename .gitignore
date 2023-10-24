@@ -1,0 +1,8 @@
+*.log
+dist
+build
+node_modules
+coverage
+*.lock
+.env
+.docker/data
